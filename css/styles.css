@@ -1,0 +1,22 @@
+
+#board{
+	background:lightgray;
+	border:black 2px solid;
+	width:800px;
+	height:440px;
+	padding:22px;
+	margin:0px auto;
+}
+
+#board > div{
+	background: blue ;
+	border:black 1px solid;
+	width:70px;
+	height:75px;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:62px;
+	cursor:pointer;
+	text-align:center;
+}
